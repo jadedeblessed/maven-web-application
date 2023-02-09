@@ -46,7 +46,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center> Landmark Technologies - Consultant, Training and Software Development</p>
+<p align=center> Landmark Technologies - Consultant, Training and Software Development program</p>
 <p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
 
 </body>
