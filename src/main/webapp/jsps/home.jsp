@@ -13,7 +13,7 @@
 <h1 align="center">Welcome to Jade global impact, the earnest expectation of the creature is for the manifestations of the sons of God.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising and deploying millionaires in IT automation.
-	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best recommended  performance.</h1>
 <h1 align="center"> Raising Kingdom giants on all mountains of endevour forever.</h1>
 <hr>
 <br>
