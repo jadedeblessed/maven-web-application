@@ -14,6 +14,7 @@
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising and deploying millionaires in IT automation.
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+<h1 align="center"> Raising Kingdom giants on all mountains of endevour.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
