@@ -15,6 +15,7 @@
 	           We are raising and deploying millionaires in IT automation.
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best recommended  performance.</h1>
 <h1 align="center"> Raising Kingdom giants on all mountains of endevour forever.</h1>
+<h1 align="center">Jade you are able. With God nothing is impossible.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
